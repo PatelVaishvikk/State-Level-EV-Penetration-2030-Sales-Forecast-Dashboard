@@ -1,5 +1,7 @@
-# 🚗 Electric Vehicle Sales Analysis - PowerBI
+# 🚗 State Level EV Penetration 2030 Sales Forecast Analysis - PowerBI
 ![](EV.gif)
+
+
 As part of the Codebasics Monthly Resume Challenge #12, I worked on this Electric Vehicle Sales Analysis project.
 
 
