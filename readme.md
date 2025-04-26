@@ -78,6 +78,32 @@ $$
 
 Three CSV files were imported directly from SharePoint into Power BI using the required account credentials. Additional datasets, such as charging data, were later added through the same method.
 
+Dashboard
+
+![](i1.png)
+
+![](i2.png)
+
+![](i3.png)
+
+![](i4.png)
+
+![](i5.png)
+
+![](i6.png)
+
+![](i7.png)
+
+![](i8.png)
+
+![](i9.png)
+
+![](i10.png)
+
+![](i11.png)
+
+![](i12.png)
+
 
 ## 🎓 Learnings from this Project 
 
